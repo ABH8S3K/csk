@@ -1,0 +1,104 @@
+{
+  "myData": [
+    {
+      "image": "https://images.pexels.com/photos/859899/pexels-photo-859899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": " silence road",
+      "rating": 5
+    },
+    {
+      "image": "https://images.pexels.com/photos/3109671/pexels-photo-3109671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": " silence road",
+      "rating": 5
+    },
+    {
+      "image": "https://images.pexels.com/photos/2199486/pexels-photo-2199486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": " silence road",
+      "rating": 5
+    },
+    {
+      "id": 1685612232044,
+      "email": "ece.20beca20@silicon.ac.in",
+      "password": "123456"
+    },
+    {
+      "id": 1685679968447,
+      "email": "suryanshnextgen@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 1685679966761,
+      "email": "suryanshnextgen@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 1685679967635,
+      "email": "suryanshnextgen@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 1685680615592,
+      "email": "abhisek26oct@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 1685680668542,
+      "email": "abhisek26oct@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 1685680687450,
+      "email": "abhisek26oct@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 1685697237946,
+      "email": "abhisek26oct@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 1685697446180,
+      "email": "abhisek26oct@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 1685697456145,
+      "email": "abhisek26oct@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 1685697622596,
+      "email": "abhisek26oct@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": 1685697633620,
+      "email": "abhisek26oct@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": 1685697679212,
+      "email": "abhisek26oct@gmail.com",
+      "password": "12567"
+    },
+    {
+      "id": 1685697878195,
+      "email": "abh@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": 1685697895811,
+      "email": "abh@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": 1685699181353,
+      "email": "abhi@gmail.com",
+      "password": "1357"
+    },
+    {
+      "id": 1685699202126,
+      "email": "abhi@gmail.com",
+      "password": "1357"
+    }
+  ]
+}

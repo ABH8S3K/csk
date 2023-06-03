@@ -1,0 +1,16 @@
+#show_movies {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    background-color: black;
+}
+
+#show_movies img {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+}
+
+#button {
+    background-color: black;
+}
